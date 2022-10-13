@@ -1,8 +1,8 @@
-# LAB - Class xx
+# LAB - Class 18
 
-## Project: Project Name Here
+## Project: AWS: API, Dynamo and Lambda
 
-### Author: Student/Group Name
+### Author: Timothee Odushina
 
 ### Problem Domain  
 
@@ -33,11 +33,11 @@ Work in a non-main branch in a new repository called ‘serverless-api’. While
 * Create a Dynamoose schema to define the structure of your table
 * Write lambda functions that will separately perform the proper CRUD operation on the database
 * Create your routes using API Gateway
-    * Routes should integrate with the appropriate Lambda function to perform the operation
+  * Routes should integrate with the appropriate Lambda function to perform the operation
 
 ### Links and Resources
 
-
+* [GitHub repo](https://github.com/timothee2022/-serverless-api)
 
 ### Setup
 
@@ -45,16 +45,10 @@ Work in a non-main branch in a new repository called ‘serverless-api’. While
 
 * `npm init -y`
 * `npm i`
-* `npm i 
-
-#### How to use your library (where applicable)
+* `npm i dynamoose`
 
 #### Features / Routes
 
 * [People table](https://us-east-2.console.aws.amazon.com/dynamodbv2/home?region=us-east-2#item-explorer?initialTagKey=&table=people-table)
 * [GET: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/GET)
 * [POST: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/POST)
-
-#### UML
-
-Link to an image of the UML for your application and response to events
