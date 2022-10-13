@@ -37,9 +37,9 @@ Work in a non-main branch in a new repository called ‘serverless-api’. While
 
 ### Links and Resources
 
-* [ci/cd](http://xyz.com) (GitHub Actions)
-* [back-end server url](http://xyz.com) (when applicable)
-* [front-end application](http://xyz.com) (when applicable)
+* [People table](https://us-east-2.console.aws.amazon.com/dynamodbv2/home?region=us-east-2#item-explorer?initialTagKey=&table=people-table)
+* [GET: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/GET)
+* [POST: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/POST)
 
 ### Setup
 
