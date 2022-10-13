@@ -37,35 +37,23 @@ Work in a non-main branch in a new repository called ‘serverless-api’. While
 
 ### Links and Resources
 
-* [People table](https://us-east-2.console.aws.amazon.com/dynamodbv2/home?region=us-east-2#item-explorer?initialTagKey=&table=people-table)
-* [GET: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/GET)
-* [POST: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/POST)
+
 
 ### Setup
 
-#### `.env` requirements (where applicable)
+#### How to initialize/run your application
 
-i.e.
-
-* `PORT` - Port Number
-* `DATABASE_URL` - URL to the running Postgres instance/db
-
-#### How to initialize/run your application (where applicable)
-
-* e.g. `npm start`
+* `npm init -y`
+* `npm i`
+* `npm i 
 
 #### How to use your library (where applicable)
 
 #### Features / Routes
 
-* Feature One: Details of feature
-* GET : `/hello` - specific route to hit
-
-#### Tests
-
-* How do you run tests?
-* Any tests of note?
-* Describe any tests that you did not complete, skipped, etc
+* [People table](https://us-east-2.console.aws.amazon.com/dynamodbv2/home?region=us-east-2#item-explorer?initialTagKey=&table=people-table)
+* [GET: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/GET)
+* [POST: /people](https://us-east-2.console.aws.amazon.com/apigateway/home?region=us-east-2#/apis/y96ub340tj/resources/4qsmr6/methods/POST)
 
 #### UML
 
